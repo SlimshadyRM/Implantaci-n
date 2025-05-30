@@ -1,0 +1,5 @@
+Git Init
+Git Status
+Git add.
+Git Commit -m "add"
+Git Push -u origin master
